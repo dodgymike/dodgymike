@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ElasticLipo and ElasticPhaser
+- 🌱 I’m currently learning about everything
+- 💬 Ask me about SDRs, electronics and software
+- 📫 How to reach me: [Twitter/elasticninja](https://twitter.com/elasticninja)
+- 😄 Pronouns: He/him/they
+- ⚡ Fun fact: Still not a cyborg
